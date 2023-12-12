@@ -1,4 +1,4 @@
-## THE LOGIN WITH PHP 
+## The Login With PHP 
 <p> 
 This is a web site to login with PHP and save in the database. At the moment it is constantly being updated.
 
