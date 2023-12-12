@@ -1,0 +1,17 @@
+* {
+  font-family: "poppins";
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.borderR {
+  border-radius: 0.4rem;
+}
+
+:root {
+  --background: #ffffff;
+  --button: #0c586b;
+  --color: #0f0e0e;
+  --destac: #07617a;
+}

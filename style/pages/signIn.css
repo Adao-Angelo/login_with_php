@@ -1,0 +1,73 @@
+@import url(../global/global.css);
+@import url(../icons/fontawesome/css/all.min.css);
+
+.container {
+  background-color: var(--button);
+  width: 100vw;
+  height: 100vh;
+}
+
+.content {
+  padding: 3rem;
+  background-color: var(--background);
+  width: 50%;
+  position: fixed;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  border-radius: 3rem 0rem 0rem 3rem;
+
+}
+
+.center {
+  margin-top: 4rem;
+
+  text-align: center;
+}
+
+.center .OT {
+  margin-bottom: 1rem;
+}
+.center .OT i {
+  color: var(--button);
+  margin: 1rem;
+  font-size: 2.5rem;
+}
+.or {
+  margin-bottom: 1rem;
+}
+.center .form form {
+  width: 15rem;
+  margin: auto;
+}
+
+.center .form input {
+  display: block;
+  width: 100%;
+  padding: 0.5rem;
+  border: none;
+  border-bottom: 1.5px solid var(--button);
+  margin-bottom: 1rem;
+  
+}
+.center .form button {
+  width: 100%;
+  border: none;
+  background-color: var(--button);
+  color: var(--background);
+  padding: 0.5rem;
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+  box-shadow: 2px 3px 5px rgba(52, 51, 51, 0.889);
+}
+
+.center .form button:hover{
+    transition: 0.2s;
+    background-color: var(--destac);
+    
+}
+.signInLink {
+  text-decoration: none;
+  color: var(--button);
+  font-weight: 600;
+}
