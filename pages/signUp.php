@@ -6,9 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>SIGN UP</title>
     <link rel="stylesheet" href="../style/pages/signIn.css" />
+    <style>
+    .img{
+      width: 40rem;
+      margin:5rem;
+      position: relative;
+    }
+  </style>
   </head>
   <body>
     <main class="container">
+    <img class="img" src="../style/img/c.png" alt="">
       <div class="content">
         <h2>Create Account</h2>
         <div class="center">
