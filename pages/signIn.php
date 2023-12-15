@@ -7,8 +7,16 @@
     <title>SIGN IN</title>
     <link rel="stylesheet" href="../style/pages/signIn.css" />
   </head>
+  <style>
+    .img{
+      width: 40rem;
+      margin:5rem;
+      position: relative;
+    }
+  </style>
   <body>
     <main class="container">
+      <img class="img" src="../style/img/c.png" alt="">
       <div class="content">
         <h2>Login</h2>
         <div class="center">
